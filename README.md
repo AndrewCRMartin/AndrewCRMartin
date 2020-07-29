@@ -2,7 +2,7 @@ Hi! I'm Andrew. I'm a Professor of Bioinformatics and Computational Biology at U
 
 In this repository, you will find a number of personal projects - either work things that only I work on, or some more off-topic things.
 
-You can also visit our group account at @ACRMGroup and our web pages at http://www.bioinf.org.uk/
+You can also visit our group account at https://github.com/ACRMGroup/ and our web pages at http://www.bioinf.org.uk/
 
 
 
